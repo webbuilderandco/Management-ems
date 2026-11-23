@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
+    "firebase": "^11.10.0",
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
+    "lucide-react": "^0.468.0"
   },
   "devDependencies": {}
 }
